@@ -5,5 +5,9 @@ import pandas as pd
 
 print("Ola, bem vindo-victor")
 
+for cont in range(10):
+
+    print(cont)
+
 
 
