@@ -1,6 +1,9 @@
 
 #--Autor: Victor Coelho Geraldo
+import numpy  as np 
+import pandas as pd
 
-import numpy as np 
+print("Ola, bem vindo-victor")
+
 
 
